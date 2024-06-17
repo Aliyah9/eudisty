@@ -3,12 +3,10 @@
   "name": "eudisty",
   
   "version": "0.1.0",
-
-  "homepage": "https://Aliyah9.github.io/react-gh-pages",
+  
+  "homepage": "https://Aliyah9.github.io/eudisty",
   
   "private": true,
-  
-  
   
   "dependencies": {
   
@@ -39,7 +37,9 @@
   },
   
   "scripts": {
-    "predeploy": "npm run build",
+  
+    
+  "predeploy": "npm run build",
   
     
   "deploy": "gh-pages -d build",
@@ -54,10 +54,7 @@
   "test": "react-scripts test",
   
     
-  "eject": "react-scripts eject",
-  
-    
-  
+  "eject": "react-scripts eject"
   
   },
   
